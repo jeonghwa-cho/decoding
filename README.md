@@ -1,1 +1,3 @@
-# decoding
+# Decoding
+
+Cross-linguistic neural decoding
